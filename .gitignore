@@ -1,7 +1,0 @@
-.idea/
-.build/
-.target/
-venv/
-requirements.txt
-__pycache__
-!/.gitignore
